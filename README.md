@@ -1,8 +1,8 @@
-# No Soojin
+# indiveloper
 
 **AI solopreneur building small, practical software for people working with AI.**
 
-I am a Korea-based solo builder. I build, ship, and learn in public while using AI agents as part of the actual product-building workflow.
+Building small products for people who work with AI agents, terminals, browsers, notes, and too many half-finished decisions.
 
 My current focus is simple:
 
@@ -22,18 +22,18 @@ Public release repository:
 
 ## Product Directions
 
-I am also exploring:
+Current product directions:
 
 - **Tabero** — travel and menu workflows.
 - **MenuPan** — AI-assisted menu operations for small restaurants.
-- **Solo builder systems** — practical workflows for building, marketing, and learning faster as a one-person company.
+- **Solo builder systems** — practical workflows for building, marketing, and learning faster with AI.
 
 ## How I Work
 
-- I build small products from real workflow pain.
-- I use AI agents heavily, but keep product judgment human.
-- I care about distribution as much as shipping.
-- I document the messy parts: failed products, wrong assumptions, small wins, and what I learn next.
+- Build from real workflow pain.
+- Use AI agents heavily, while keeping product judgment human.
+- Treat distribution as part of the product.
+- Keep shipping, measuring, and improving.
 
 ## Current Learning Loop
 
@@ -41,10 +41,9 @@ I am also exploring:
 Build → Ship → Measure → Learn → Improve → Repeat
 ```
 
-No fake guru story. Just building, failing, learning, and trying again.
+Build, fail, learn, improve, ship again.
 
 ## Links
 
-- Website: [waindow.app](https://www.waindow.app)
-- X: [@sornrus](https://x.com/sornrus)
-- Email: [indiveloper@gmail.com](mailto:indiveloper@gmail.com)
+- Waindow: [waindow.app](https://www.waindow.app)
+- Tabero: [tabero.app](https://www.tabero.app)
