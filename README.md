@@ -1,12 +1,12 @@
 # indiveloper
 
-**AI solopreneur building small, practical software for people working with AI.**
+**Product maker building small, practical products across travel, food, productivity, and everyday workflows.**
 
-Building small products for people who work with AI agents, terminals, browsers, notes, and too many half-finished decisions.
+I like turning small everyday problems into useful products.
 
 My current focus is simple:
 
-> Make the messy parts of AI-assisted work easier to control.
+> Find annoying problems, build small products, ship them, and learn from the real world.
 
 ## Building Now
 
@@ -20,18 +20,27 @@ Public release repository:
 
 - [indiveloper/waindow-releases](https://github.com/indiveloper/waindow-releases)
 
+### [Tabero](https://www.tabero.app)
+
+A travel product for exploring food, menus, and local experiences more easily.
+
+### MenuPan
+
+A menu-board product for small restaurants and food businesses.
+
 ## Product Directions
 
 Current product directions:
 
-- **Tabero** — travel and menu workflows.
-- **MenuPan** — AI-assisted menu operations for small restaurants.
-- **Solo builder systems** — practical workflows for building, marketing, and learning faster with AI.
+- **Travel products** — better ways to explore places, food, and local context.
+- **Food and menu products** — practical tools for restaurants and people choosing what to eat.
+- **Productivity utilities** — small tools that remove repeated friction from daily work.
+- **Solo maker systems** — workflows for building, shipping, marketing, and learning faster.
 
 ## How I Work
 
 - Build from real workflow pain.
-- Use AI agents heavily, while keeping product judgment human.
+- Use AI as a building tool, while keeping product judgment human.
 - Treat distribution as part of the product.
 - Keep shipping, measuring, and improving.
 
