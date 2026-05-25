@@ -1,30 +1,50 @@
 # No Soojin
 
-AI solopreneur building small, useful products for people working with AI.
+**AI solopreneur building small, practical software for people working with AI.**
 
-I am a Korea-based solo builder. I use AI agents, native apps, web tools, and a lot of trial-and-error to turn everyday work problems into products.
+I am a Korea-based solo builder. I build, ship, and learn in public while using AI agents as part of the actual product-building workflow.
 
-Right now, I am focused on building tools for the AI work era:
+My current focus is simple:
 
-- **Waindow** — a macOS workspace utility for keeping windows, notes, captures, and long-running AI work under control.
-- **Tabero** — a travel/menu product direction from my earlier food and travel experiments.
-- **MenuPan** — an AI-assisted menu workflow for small restaurants.
+> Make the messy parts of AI-assisted work easier to control.
 
-## Current Focus
+## Building Now
 
-- Building useful solo products in public.
-- Learning distribution, positioning, and marketing the hard way.
-- Turning messy AI-assisted work into repeatable systems.
-- Sharing what actually happens when a solo developer tries to survive in the AI era.
+### [Waindow](https://www.waindow.app)
 
-## Public Release
+A native macOS workspace utility for people who run many AI jobs, terminal sessions, browser tabs, notes, and product decisions at the same time.
 
-- [Waindow Releases](https://github.com/indiveloper/waindow-releases)
-- [Waindow Website](https://www.waindow.app)
+Waindow helps keep work sessions, windows, notes, captures, and long-running AI tasks together.
 
-## Elsewhere
+Public release repository:
 
+- [indiveloper/waindow-releases](https://github.com/indiveloper/waindow-releases)
+
+## Product Directions
+
+I am also exploring:
+
+- **Tabero** — travel and menu workflows.
+- **MenuPan** — AI-assisted menu operations for small restaurants.
+- **Solo builder systems** — practical workflows for building, marketing, and learning faster as a one-person company.
+
+## How I Work
+
+- I build small products from real workflow pain.
+- I use AI agents heavily, but keep product judgment human.
+- I care about distribution as much as shipping.
+- I document the messy parts: failed products, wrong assumptions, small wins, and what I learn next.
+
+## Current Learning Loop
+
+```text
+Build → Ship → Measure → Learn → Improve → Repeat
+```
+
+No fake guru story. Just building, failing, learning, and trying again.
+
+## Links
+
+- Website: [waindow.app](https://www.waindow.app)
 - X: [@sornrus](https://x.com/sornrus)
 - Email: [indiveloper@gmail.com](mailto:indiveloper@gmail.com)
-
-No guru story. Just building, failing, learning, and trying again.
